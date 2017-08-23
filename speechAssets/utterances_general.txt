@@ -1,0 +1,44 @@
+InsertVerbsIntent Let's go with the grammar exercise
+InsertVerbsIntent I want to do the grammar exercise
+InsertVerbsIntent grammar
+InsertVerbsIntent grammar exercise
+
+PronunciationIntent Let's go with the pronunciation exercise
+PronunciationIntent I want to do the pronunciation exercise
+PronunciationIntent pronunciation
+PronunciationIntent pronunciation exercise
+
+AMAZON.HelpIntent Help
+AMAZON.HelpIntent Explain how this works
+AMAZON.HelpIntent What can you do
+AMAZON.HelpIntent What is this tense
+AMAZON.HelpIntent What do I have to do
+AMAZON.HelpIntent Can you help me with this
+
+YesIntent yes
+YesIntent sure
+
+NoIntent no
+NoIntent go away
+
+RepeatIntent what
+RepeatIntent what was that
+RepeatIntent repeat
+RepeatIntent say it again
+RepeatIntent say it again please
+RepeatIntent again
+RepeatIntent I didn't get that
+RepeatIntent sorry i don't understand
+RepeatIntent I can't get it
+
+NextIntent next
+NextIntent next one
+NextIntent next one please
+NextIntent give me another one
+
+SwitchIntent switch
+SwitchIntent switch to another
+SwitchIntent Let's do another exercise
+SwitchIntent I want to do something else
+SwitchIntent Cancel current exercise
+SwitchIntent Switch exercises

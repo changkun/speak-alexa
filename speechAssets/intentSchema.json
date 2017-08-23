@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "intent": "InsertVerbsIntent"
+    },
+    {
+      "intent": "PronunciationIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "RepeatIntent"
+    },
+    {
+      "intent": "NextIntent"
+    },
+    {
+      "intent": "SwitchIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "verbform",
+          "type": "VERBFORMS"
+        }
+      ],
+      "intent": "AnswerIntentInsert"
+    },
+    {
+      "slots": [
+        {
+          "name": "answerSentence",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "AnswerIntentRepeat"
+    },
+    {
+      "slots": [
+        {
+          "name": "catch",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "OtherIntent"
+    }
+  ]
+}

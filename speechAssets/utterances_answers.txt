@@ -1,0 +1,14 @@
+AnswerIntentInsert I {verbform} to the park
+AnswerIntentInsert He {verbform} the match
+AnswerIntentInsert Mary {verbform} tennis
+AnswerIntentInsert You {verbform} that movie many times
+AnswerIntentInsert He {verbform} at home
+AnswerIntentInsert She {verbform} her friend to come with her
+AnswerIntentInsert I don't believe we {verbform} before
+AnswerIntentRepeat {the dog was flying to the moon|answerSentence}
+AnswerIntentRepeat {john went to the supermarket|answerSentence}
+AnswerIntentRepeat {the cat sat on the mat|answerSentence}
+AnswerIntentRepeat {i scream you scream we all scream for icecream|answerSentence}
+AnswerIntentRepeat {i saw susie sitting in a shoe shine shop|answerSentence}
+AnswerIntentRepeat {how can a clam cram in a clean cream can|answerSentence}
+AnswerIntentRepeat {roberta ran rings around the roman ruins|answerSentence}
